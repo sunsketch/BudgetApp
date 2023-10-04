@@ -21,7 +21,9 @@ user authentification and a deeper understanding of established OOP skills.
 ### ✍️ Authors
 
 Peter Avila -
+
 Anne Davis - 
+
 Camron Hudson -
 Abhi Patel -
 Brian Rodriguez -
