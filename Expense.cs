@@ -9,7 +9,7 @@
  */
 
 using System;
-
+//*********************************************************************************************************************************
 //category that each expense can be classified as
 public enum ExpenseCategory
 {
