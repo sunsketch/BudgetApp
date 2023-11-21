@@ -9,12 +9,6 @@
  */
 
 using System;
-//*********************************************************************************************************************************
-//category that each expense can be classified as
-public enum ExpenseCategory
-{
-    Rent, Food, Utilities, Entertainment, Income, Other
-}
 
 
 //Each instance of this class will hold the information associated with the individual expenditure
