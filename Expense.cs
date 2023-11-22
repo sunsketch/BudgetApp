@@ -1,6 +1,6 @@
 /*  Name:   A. Davis
  *  Class:  COSC4320 - Software Engineering
- *  Date:   October 2023
+ *  Date:   November 2023 
  *  Description:
  *          Class is used to represent individual expenses
  *          
